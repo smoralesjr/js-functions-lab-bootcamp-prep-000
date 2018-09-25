@@ -13,4 +13,4 @@ var happyHolidayTo = function(holiday,name){
 
 var holidayCountdown = function(holiday,name) {
   return `It's ${days} until ${holiday}`;
-}
+};
