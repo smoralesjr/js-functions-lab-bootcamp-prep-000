@@ -2,3 +2,5 @@
 const happyHolidays = function(){
   return "Happy holidays!";
 };
+
+happyHolidays();
