@@ -3,4 +3,3 @@ const happyHolidays = function(){
   return "Happy holidays!";
 };
 
-console.log(happyHolidays());
