@@ -8,5 +8,5 @@ var happyHolidaysTo = function(name){
 }
 
 var happyHolidayTo = function(holiday,name){
-  
+  return `Happy ${holiday}, ${name}!`;
 }
