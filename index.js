@@ -1,2 +1,4 @@
 // write your code below!
-const 
+const happyHolidays = function(){
+  return "Happy holidays!";
+};
