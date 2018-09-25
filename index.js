@@ -1,8 +1,8 @@
 // write your code below!
-const happyHolidays = function(){
+var happyHolidays = function(){
   return "Happy holidays!";
 };
 
-const happyHolidaysTo = function(name){
+var happyHolidaysTo = function(name){
   return `Happy holidays, ${name}!`;
 }
